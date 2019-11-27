@@ -1,0 +1,264 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Hong Kong elections: Chinese media attempt to downplay results - BBC News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWNoaW5hLTUwNTU0OTEy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWNoaW5hLTUwNTU0OTEy?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2019-11-26T06:02:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Analysis by Stephen Collinson, CNN",
+      "title": "Judge tells Trump he's not a king -- the President is not so sure - CNN",
+      "description": "Donald Trump is not going to like his Constitution 101 lesson: \"Presidents are not kings.\"",
+      "url": "https://www.cnn.com/2019/11/26/politics/donald-trump-constitution-supreme-court-executive-power/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191116154126-01-donald-trump-1114-super-tease.jpg",
+      "publishedAt": "2019-11-26T05:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "Season 28 Winner Revealed - Dancing with the Stars - Dancing With The Stars",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=mhJzmjF_VN0",
+      "urlToImage": null,
+      "publishedAt": "2019-11-26T05:13:40Z",
+      "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Ukraine gas executive says Giuliani associates boasted of US government ties - CNN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VHVrU3MxQXR6UUHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2019-11-26T04:59:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cbssports.com"
+      },
+      "author": "",
+      "title": "2019 Maui Invitational scores, bracket, schedule, teams: Kansas advances to semifinals - CBS Sports",
+      "description": "A look at what to expect from this year's Maui Invitational, and who might come out on top",
+      "url": "https://www.cbssports.com/college-basketball/news/2019-maui-invitational-scores-bracket-schedule-teams-kansas-advances-to-semifinals/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/11/26/e45becad-76db-40df-b174-2d198820feb6/thumbnail/1200x675/e4845e64a37d0652d77f632f65c09922/msu-vatech.jpg",
+      "publishedAt": "2019-11-26T04:53:00Z",
+      "content": "So much for that highly-anticipated game between No. 3 Michigan State and No. 4 Kansas in the championship of the Maui Invitational. Virginia Tech didn't cooperate on setting up a Spartans vs. Jayhawks showdown by upsetting Michigan State 71-66 Monday in the … [+1282 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Justin Carissimo",
+      "title": "Aniah Blanchard: Remains found believed to be stepdaughter of UFC star Walt Harris in Macon County, Alabama today - CBS News",
+      "description": "Blanchard, the stepdaughter of UFC heavyweight star Walt Harris, was reported missing by her family on October 24",
+      "url": "https://www.cbsnews.com/news/aniah-blanchard-found-update-remains-believed-to-be-found-today-ufc-star-walt-harris-stepdaughter/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/11/25/699202a9-d315-4fd4-9e57-b5c057ac7bc7/thumbnail/1200x630/3bd9e01b21544c9522503ecc54d5d1d0/aniah-1-1.jpg",
+
+      "content": "Authorities in Alabama believe they have discovered the remains of missing 19-year-old student Aniah Blanchard, CBS affiliate WRBL reported. Blanchard, the stepdaughter of UFC heavyweight star Walt Harris, was reported missing by her family on October 24.\r\n\"I… [+874 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Texas woman killed by feral hogs outside home in ‘unbelievably tragic’ incident - Fox News",
+      "description": "Authorities say feral hogs attacked and killed a woman outside a Southeast Texas home where she worked as a caretaker.",
+      "url": "https://www.foxnews.com/us/texas-woman-killed-by-feral-hogs-outside-home-in-unbelievably-tragic-incident",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/hogs-on-bait.jpg",
+      "publishedAt": "2019-11-26T04:22:29Z",
+      "content": "Authorities say feral hogs attacked and killed a woman outside a Southeast Texas home where she worked as a caretaker.\r\n4 WISCONSIN HUNTERS SHOT IN SEPERATE INCIDENTS ON OPENING DAY FOR DEER SEASON\r\nChristine Rollins cared for an elderly couple at their home … [+850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Therams.com"
+      },
+      "author": "Stu Jackson",
+      "title": "Game Recap: Rams fall to Ravens 45-6 on MNF - therams.com",
+      "description": "The Los Angeles Rams fell behind early and couldn't overcome the setback in their loss to the Baltimore Ravens.",
+      "url": "https://www.therams.com/news/rams-ravens-game-recap-2019",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/rams/d92twk3tky0snosjgccx",
+      "publishedAt": "2019-11-26T04:18:45Z",
+      "content": "LOS ANGELES An early deficit proved insurmountable for the Rams (6-5) in a 45-6 Monday Night Football loss to the Ravens (9-2) before a crowd of 72,409 at Los Angeles Memorial Coliseum.\r\nThe Rams received the opening kickoff and went 3-and-out on their first … [+2968 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes.com"
+      },
+      "author": "Gordon Kelly",
+      "title": "Black Friday 2019 iPhone Deals: Amazon, Best Buy, Walmart And More [Updated] - Forbes",
+      "description": "The best Apple iPhone Black Friday deals you can buy right now as well as upcoming doorbusters...",
+      "url": "https://www.forbes.com/sites/gordonkelly/2019/11/25/black-friday-2019-iphone-deals-amazon-best-buy-walmart-and-more-updated/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc0d32bca425400079c6fd7%2F960x0.jpg",
+      "publishedAt": "2019-11-26T03:51:14Z",
+      "content": "Forbes and/or the author may earn a commission on sales made from links on this page.The best Black Friday iPhone deals are found away from the Apple store, but keeping track of them all is tough. So here are my top picks of the hottest iPhone deals you can b… [+8766 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Giannis Antetokounmpo drops 50 points on Jazz, continues to outplay his MVP season - Yahoo Sports",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9naWFubmlzLWFudGV0b2tvdW5tcG8tZHJvcHMtNTAtcG9pbnRzLW9uLWphenotY29udGludWVzLXRvLW91dHBsYXktaGlzLW12cC1zZWFzb24tMDM0MTU1NjU1Lmh0bWzSAYEBaHR0cHM6Ly9zcG9ydHMueWFob28uY29tL2FtcGh0bWwvZ2lhbm5pcy1hbnRldG9rb3VubXBvLWRyb3BzLTUwLXBvaW50cy1vbi1qYXp6LWNvbnRpbnVlcy10by1vdXRwbGF5LWhpcy1tdnAtc2Vhc29uLTAzNDE1NTY1NS5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2019-11-26T03:41:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Tim Stelloh",
+      "title": "Chicago man charged with strangling college student in campus garage - NBC News",
+      "description": "Donald Thurman, 26, faces first-degree murder and aggravated sexual assault charges in the killing of Ruth George, 19, police said.",
+      "url": "https://www.nbcnews.com/news/us-news/chicago-man-charged-strangling-college-student-campus-garage-n1091191",
+      "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_48/3120021/191125-donald-thurman-nbc-news-mugshot-template-se-915p_d7c5b6c6ac170a0a29379f656c77361a.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2019-11-26T03:00:00Z",
+      "content": "A Chicago man was charged Monday with strangling a college student in a university parking garage over the weekend, authorities said.\r\nDonald Thurman, 26, faces first-degree murder and aggravated sexual assault charges in the death of Ruth George, 19, Univers… [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Crews Battle 2,500-Acre Cave Fire in Los Padres National Forest North of Santa Barbara - KTLA Los Angeles",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8va3RsYS5jb20vMjAxOS8xMS8yNS9jcmV3cy1iYXR0bGUtY2F2ZS1maXJlLWluLWxvcy1wYWRyZXMtbmF0aW9uYWwtZm9yZXN0LW5vcnRoLW9mLXNhbnRhLWJhcmJhcmEv0gFsaHR0cHM6Ly9rdGxhLmNvbS8yMDE5LzExLzI1L2NyZXdzLWJhdHRsZS1jYXZlLWZpcmUtaW4tbG9zLXBhZHJlcy1uYXRpb25hbC1mb3Jlc3Qtbm9ydGgtb2Ytc2FudGEtYmFyYmFyYS9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2019-11-26T02:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katelyn Polantz, Joan Biskupic and Jeremy Herb, CNN",
+      "title": "Takeaways from a busy day in courts on the impeachment inquiry - CNN",
+      "description": "Two major court actions in Washington, DC, Monday evening added fuel to the fire for the House Democrats' impeachment inquiry and the ongoing fight over the White House's attempt to shield President Donald Trump's advisers and financial documents from going p…",
+      "url": "https://www.cnn.com/2019/11/25/politics/takeaways-supreme-court-impeachment-house/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191125101425-mcgahn-trump-file-2018-super-tease.jpg",
+      "publishedAt": "2019-11-26T02:23:00Z",
+      "content": "Washington (CNN)Two major court actions in Washington, DC, Monday evening added fuel to the fire for the House Democrats' impeachment inquiry and the ongoing fight over the White House's attempt to shield President Donald Trump's advisers and financial docume… [+7590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bgr.com"
+      },
+      "author": "Mike Wehner",
+      "title": "Man dies after being licked by his dog - BGR",
+      "description": "A man in Germany has died and his dog is being blamed for his passing. The dog didn’t bite or attack the man in any way, it simply licked him. The bizarre story is the subject of a new paper …",
+      "url": "https://bgr.com/2019/11/25/dog-lick-infection-bacteria-health/",
+      "urlToImage": "https://boygeniusreport.files.wordpress.com/2016/11/puppy-dog.jpg?quality=98&strip=all",
+      "publishedAt": "2019-11-26T02:11:00Z",
+      "content": "A man in Germany has died and his dog is being blamed for his passing. The dog didn’t bite or attack the man in any way, it simply licked him. The bizarre story is the subject of a new paper in the European Journal of Case Reports in Internal Medicine, and it… [+1845 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Kane Wu",
+      "title": "Alibaba's Hong Kong shares mark maiden day of trade with small premium to New York - Reuters",
+      "description": "Alibaba Group's <9988.HK> Hong Kong shares made a solid debut on Tuesday, trading 6.9% higher than their issue price and at a small premium to pricing in New York after marking the world's largest stock sale this year.",
+      "url": "https://www.reuters.com/article/us-alibaba-listing-hongkong-idUSKBN1Y004A",
+      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20191126&t=2&i=1456802987&w=1200&r=LYNXMPEFAP02Q",
+      "publishedAt": "2019-11-26T01:33:00Z",
+      "content": "HONG KONG (Reuters) - Alibaba Group’s (BABA.N) (9988.HK) Hong Kong shares made a solid debut on Tuesday, trading 6.9% higher than their issue price and at a small premium to pricing in New York after marking the world’s largest stock sale this year. \r\nThe Chi… [+3410 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "NJ-Based Arts and Crafts Retailer A.C. Moore Closing All 141 Stores - NBC 10 Philadelphia",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9BQy1Nb29yZS1DbG9zaW5nLVN0b3Jlcy1NaWNoYWVscy1OZXctSmVyc2V5LUJlcmxpbi1Nb29yZXN0b3duLTU2NTQ1NzkyMi5odG1s0gF9aHR0cHM6Ly93d3cubmJjcGhpbGFkZWxwaGlhLmNvbS9uZXdzL2xvY2FsL0FDLU1vb3JlLUNsb3NpbmctU3RvcmVzLU1pY2hhZWxzLU5ldy1KZXJzZXktQmVybGluLU1vb3Jlc3Rvd24tNTY1NDU3OTIyLmh0bWw_YW1wPXk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2019-11-26T01:28:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Igor Bonifacic",
+      "title": "Netflix steps in to save New York’s historic ‘Paris Theatre’ - Engadget",
+      "description": "The company plans to use the city’s only remaining single-screen theater to show some of its own movies.",
+      "url": "https://www.engadget.com/2019/11/25/netflix-save-new-york-paris-theatre/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-11%252F23a7e720-0fcd-11ea-97fa-fd34372e4662%26client%3Da1acac3e1b3290917d92%26signature%3De77d1abdc23325c9d35393c5d7640842e48c3745&client=amp-blogside-v2&signature=c0287449d916b2a4a73442a9ee81d51d07190684",
+      "publishedAt": "2019-11-26T01:19:44Z",
+      "content": "While Netflix didn't disclose the terms of the lease, it did say that it plans to use the space for special events and screenings, as well as to show its own movies. Netflix has been showing films like The Irishman and The King in theaters so that they can qu… [+1044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Latimes.com"
+      },
+      "author": "David Wharton",
+      "title": "Russia one step closer to ban from Tokyo Olympics - Los Angeles Times",
+      "description": "Anti-doping officials have proposed Russian be deemed \"non-compliant\" and banned from participation in the next two Olympic Games.",
+      "url": "https://www.latimes.com/sports/story/2019-11-25/russia-tokyo-olympics-ban-wada-testing-doping",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/151c06e/2147483647/strip/true/crop/3758x1973+0+289/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F15%2Fc1%2Fde1614b74cb68d7b60d3e950fb0a%2Frussia-doping-60113.jpg",
+      "publishedAt": "2019-11-26T00:39:00Z",
+      "content": "­­­Three years after Russia was banned from the 2018 Winter Olympics with a limited number of its athletes allowed to compete as neutrals anti-doping officials have suggested a similar policy for the next two Games.\r\nAn expert panel with the World Anti-Doping… [+1201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.com"
+      },
+      "author": null,
+      "title": "Justin Timberlake returns to set with Alisha Wainwright after PDA pics emerge - Yahoo Entertainment",
+      "description": "Sources maintain nothing inappropriate happened between Timberlake and Wainwright.",
+      "url": "https://www.yahoo.com/entertainment/justin-timberlake-returns-to-set-with-alisha-wainwright-after-pda-pics-emerge-002242763.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/WMePuhcui7Z14JCsnSf1sg--~B/aD05MTc7dz0xNTAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-11/b985a100-0fd3-11ea-b8be-2084ea6cf2f2",
+      "publishedAt": "2019-11-26T00:23:55Z",
+      "content": "It's back to work for Justin Timberlake. The 38-year-old musician and actor reported to the set of Palmer on Monday in Louisiana, two days after photos of him holding hands with his co-star emerged. He was photographed in a navy uniform talking on his cell ph… [+3031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon.com"
+      },
+      "author": "Nicole Karlis",
+      "title": "Earth's carbon dioxide levels hit a 3 million year high - Salon",
+      "description": "Call the Guinness Book: It's been at least three million years since CO2 was this high",
+      "url": "https://www.salon.com/2019/11/25/earths-carbon-dioxide-levels-hit-a-3-million-year-high/",
+      "urlToImage": "https://media.salon.com/2019/11/car-fumes-11251.jpg",
+      "publishedAt": "2019-11-26T00:14:00Z",
+      "content": "On Monday, the World Meteorological Organization (WMO) released a chilling report about the composition of Earth’s atmosphere, revealing that we have hit a new record for carbon dioxide levels.\r\nAccording to the report, carbon dioxide (CO2) concentrations rea… [+4209 chars]"
+    }
+  ]
+}
