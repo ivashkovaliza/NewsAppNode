@@ -30,7 +30,7 @@ function hasTitle(req, res, next) {
   if(newTitle) {
     next()
   } else {
-    res.send({ error: `There is no title value in request body!` });
+    res.status(422).send({ error: `There is no title value in request body!` });
   }
 }
 
@@ -40,7 +40,7 @@ function checkId(req, res, next) {
   if(news.articles[id]) {
     next();
   } else {
-    res.send({ error: `There is no element with ${id} id!` });
+    res.status(404).send({ error: `Element with ${id} id couldn't be found!` });
   }
 }
 

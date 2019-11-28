@@ -8,7 +8,7 @@ const path = require('path');
 const port = 3000;
 const app = express();
 
-const requestsLogStream = fs.createWriteStream(path.join(__dirname, './log/requests.log'), { flags: 'a' });
+const requestsLogStream = fs.createWriteStream(path.join(__dirname, 'log', 'requests.log'), { flags: 'a' });
 morgan.token('date',()=> new Date().toLocaleString());
 app.use(morgan(':date Request method - :method, Request url - :url', { stream: requestsLogStream }));
 
@@ -18,7 +18,7 @@ app.use('/', newsRoutes);
 app.use(errorHandler);
 
 function errorHandler(err, req, res, next) {
-  console.log(err);
+  console.error(err);
   res.status(500).send({ error: 'Something failed!' });
 }
 
